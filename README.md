@@ -1,14 +1,17 @@
-JavaScript Mastery - SDET Path 🚀
-This repository contains my progress through modern JavaScript, focusing on programming logic and asynchronous patterns to build a solid foundation for SDET (Software Development Engineer in Test) roles.
+# JavaScript Mastery - SDET Path 🚀
 
-🎯 Goals:
-Master programming logic through 50+ challenges.
+This repository tracks my journey through modern JavaScript, focusing on programming logic, asynchronous patterns, and clean code principles to build a world-class foundation for my career as an **SDET** (Software Development Engineer in Test).
 
-Deep dive into Asynchronous JS (Promises/Async-Await) for Playwright automation.
+## 🎯 Key Objectives
+- **Logic Mastery:** Solving 50+ core programming challenges.
+- **Async Deep Dive:** Mastering Promises and Async/Await for robust automation.
+- **Object-Oriented Programming (OOP):** Implementing Design Patterns like Page Object Model (POM).
+- **Quality Mindset:** Applying ISTQB principles directly into my scripts.
 
-Implement OOP (Object-Oriented Programming) for Page Object Models.
-
-🛠 Tech Stack:
-JavaScript (ES6+)
-
-Node.js
+## 🛠 Tech Stack
+- **Language:** JavaScript (ES6+)
+- **Runtime:** Node.js
+- **Future Tools:** Playwright, TypeScript
+  
+---
+*“Excellence is not an act, but a habit.” — Building my way to Spain 🇪🇸*
